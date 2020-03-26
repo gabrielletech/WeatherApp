@@ -1,0 +1,32 @@
+.App {
+    text-align: center;
+}
+
+select {
+    margin-left: .5rem;
+}
+
+h1 {
+    text-align: center;
+}
+
+img {
+    display: block;
+    margin: auto;
+}
+
+.App {
+    background-color: #B0C4DE;
+}
+
+.display p {
+    background-color: #DCDCDC;
+    font-family: Times;
+    font-size: 25px;
+    width: 50%;
+    margin-left: 350px;
+}
+
+.form {
+    margin-left: 350px;
+}
