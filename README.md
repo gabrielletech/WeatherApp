@@ -1,7 +1,7 @@
 # React Weather App
 
-![preview 1]("preview1.png")
+![preview](preview1.png)
 
-![preview 2]("preview2.png")
+![preview](preview2.png)
 
-![preview 3]("preview3.png")
+![preview](preview3.png)
